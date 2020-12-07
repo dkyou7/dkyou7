@@ -14,7 +14,8 @@
 | **:office:Employment** | 2019. 11 ~ | SW Engineer, Korea Trade Network | **KTNET** |
 
 ### :cyclone: Languages
-
+- java & spring boot
+- python & Django
 
 ### :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dkyou7@gmail.com)](mailto:dkyou7@gmail.com)
